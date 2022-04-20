@@ -36,4 +36,4 @@
 ### ```week12.py```
 - PCA (Principal Component Analysis)
 - MDS (Multidimensional Scaling)
-- Feature Selection: Filter
+- Feature Selection: Filter  
