@@ -1,7 +1,8 @@
-# 2021 Fall - Advanced Machine Learning Class - SeoulTech, Department of Data Science
+# Lecture - Advanced ML
+## 2021 Fall - Advanced Machine Learning Class - SeoulTech, Department of Data Science
 
-## assignment
+### assignment
 codes for assignment (see ```README.md```)
 
-## inclass
+### inclass
 codes used in class practice (see ```README.md```)
