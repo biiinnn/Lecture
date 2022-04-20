@@ -4,4 +4,4 @@
 codes for assignment
 
 ## inclass
-codes used in class practice
+codes used in class practice (see ```code_description```)
