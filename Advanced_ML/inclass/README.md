@@ -1,6 +1,6 @@
 # inclass codes
 
-## [implement various methods without using library]
+## [implement various methods that learned in class]
 
 > ```week04.py```
 - SVC (Support Vector Classification)
