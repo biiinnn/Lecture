@@ -1,5 +1,5 @@
 # assignment code
-## python basic
+## [python basic]
 
 ### 1
 - csv 파일에서 데이터 추출하고 처리하는 방법 주석으로 설명하기
