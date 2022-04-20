@@ -1,4 +1,4 @@
-# Lecture - Advanced ML
+# Lecture - Advanced ML (심화기계학습)
 ## 2021 Fall - Advanced Machine Learning Class - SeoulTech, Department of Data Science
 
 ### assignment
