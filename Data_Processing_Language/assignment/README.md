@@ -1,6 +1,6 @@
 # assignment codes
 
-## python basic
+## [python basic]
 
 ### ```week02.ipynb```
 - 섭씨온도를 화씨온도로 바꾸기
