@@ -1,0 +1,12 @@
+The first story is about connecting the dots.
+My second story is about love and loss.
+My third story is about death.
+
+'The','first','story','is','about','connecting','dots','My','second','love','and','loss','third','death'
+
+('The','first'),('first','story'),('story','is'),('is','about'),('about','connecting'),('connecting','dots'),('My','second'),('second','story'),('story','is'),('is','about'),('about','love'),('love','and'),('and','loss'),('My','third'),('third','story'),('story','is'),('is','about'),('about','death')
+
+
+'The', 'first', 'story', 'is', 'about', 'connecting', 'the', 'dots'
+'My', 'second', 'story', 'is', 'about', 'love', 'and', 'loss'
+'My', 'third', 'story', 'is', 'about', 'death'
